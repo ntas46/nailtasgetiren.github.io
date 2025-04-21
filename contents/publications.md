@@ -1,3 +1,5 @@
+- **Tasgetiren N., Safak I., AKTAŞ M. S.**. *The 23rd International Conference on Computational Science and Its Applications (ICCSA 2025), İstanbul, Türkiye, 2025
+
 - **Tasgetiren N., Safak I., AKTAŞ M. S.**. *Software - Practice and Experience, 2025
 
 - **Taşgetiren N., Kılıç T., AKTAŞ M. S.**. *International Journal of Web and Grid Services, vol.20, no.4, pp.482-504, 2024
